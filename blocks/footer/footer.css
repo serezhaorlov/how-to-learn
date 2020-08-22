@@ -1,0 +1,13 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-preferred-size: 711px;
+      flex-basis: 711px;
+  min-height: 350px;
+  background-color: #1f1f1f;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+  margin-bottom: 0;    /* по брифу у нас ссылка должна занимать атк много места? я могу ее ограничить в размерах? некрасиво выглядит при наведении, и курсор меняется ниже самой ссылки(*/
+}
+
+
+.khan__buy-link:hover {
+  opacity: .85;
+  color: #1f1f1f;
+  background-color: #f2f2f2;
+}

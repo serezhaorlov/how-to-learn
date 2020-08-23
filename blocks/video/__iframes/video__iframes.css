@@ -4,6 +4,4 @@
   display: -ms-flexbox;
   display: flex;
   margin: 50 auto 0;
-  overflow-y: visible;
-  max-height: 267px;
 }
